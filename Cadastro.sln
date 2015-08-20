@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.Entidades", "Cadastro.Entidades\Cadastro.Entidades.csproj", "{58F1DFDE-7A40-4E06-A0A6-51B94FD2B09A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.NHibernate", "Cadastro.NHibernate\Cadastro.NHibernate.csproj", "{99595A42-1602-4E43-A123-20AEDBB5AF64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.Web", "Cadastro.Web\Cadastro.Web.csproj", "{88B86BDB-12E3-4464-ABF8-9FD1072EE83A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F1DFDE-7A40-4E06-A0A6-51B94FD2B09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F1DFDE-7A40-4E06-A0A6-51B94FD2B09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F1DFDE-7A40-4E06-A0A6-51B94FD2B09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F1DFDE-7A40-4E06-A0A6-51B94FD2B09A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99595A42-1602-4E43-A123-20AEDBB5AF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99595A42-1602-4E43-A123-20AEDBB5AF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99595A42-1602-4E43-A123-20AEDBB5AF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99595A42-1602-4E43-A123-20AEDBB5AF64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B86BDB-12E3-4464-ABF8-9FD1072EE83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B86BDB-12E3-4464-ABF8-9FD1072EE83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B86BDB-12E3-4464-ABF8-9FD1072EE83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B86BDB-12E3-4464-ABF8-9FD1072EE83A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
