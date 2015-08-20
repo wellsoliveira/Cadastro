@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Cadastro.Entidades.DadosCadastrais>
+
+@{
+    ViewBag.Title = "Cadastro";
+}
+
+<h2>Cadastro</h2>
+
+<p>
+    @Html.ActionLink("Adicionar Registro", "Adicionar")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id_empresa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nm_empresa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ds_endereco)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nm_contato)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Id_empresa)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nm_empresa)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ds_endereco)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nm_contato)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { lItem = item.Id_empresa}) |
+            @Html.ActionLink("Delete", "Delete", new { lItem = item.Id_empresa })
+        </td>
+    </tr>
+}
+
+</table>

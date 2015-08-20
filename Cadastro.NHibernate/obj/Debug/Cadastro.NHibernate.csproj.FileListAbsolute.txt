@@ -1,0 +1,14 @@
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\obj\Debug\Cadastro.NHibernate.csprojResolveAssemblyReference.cache
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\bin\Debug\Cadastro.NHibernate.dll
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\bin\Debug\Cadastro.NHibernate.pdb
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\bin\Debug\Cadastro.Entidades.dll
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\bin\Debug\FluentNHibernate.dll
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\bin\Debug\NHibernate.dll
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\bin\Debug\Cadastro.Entidades.pdb
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\bin\Debug\FluentNHibernate.pdb
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\bin\Debug\FluentNHibernate.xml
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\bin\Debug\Iesi.Collections.xml
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\bin\Debug\NHibernate.xml
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\obj\Debug\Cadastro.NHibernate.dll
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.NHibernate\obj\Debug\Cadastro.NHibernate.pdb

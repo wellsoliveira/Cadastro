@@ -1,0 +1,5 @@
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.Entidades\bin\Debug\Cadastro.Entidades.dll
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.Entidades\bin\Debug\Cadastro.Entidades.pdb
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.Entidades\obj\Debug\Cadastro.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.Entidades\obj\Debug\Cadastro.Entidades.dll
+C:\Users\Wellington\Documents\GitHub\Cadastro\Cadastro.Entidades\obj\Debug\Cadastro.Entidades.pdb
